@@ -9,3 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+* Single cycle M.S. in Pharmaceutical chemistry and technologies, Alma Mater Studiorum-University of Bologna, 2021
+* Ph.D in Data Science and Computation, Alma Mater Studiorum-University of Bologna, 2025 (expected)
+
+Work experience
+======
+* Fall 2021 - Fall 2022: Teaching Assistant
+  * Alma Mater Studiorum-University of Bologna
+  * Laboratory course in Advanced Methodologies in Medicinal Chemistry
+  * Supervisors: Professors Matteo Masetti and Professors Federico Falchi
+
+* Fall 2018 - Fall 2020: Teaching Tutor
+  * Alma Mater Studiorum-University of Bologna
+  * Duties included: 
+  
+Technical Skills
+======
+* Molecular Dynamics engine (gromacs, Amber, Desmond)
+* Schrodinger Molecular Modelling suite
+* Quantum mechanics (GAMESS, ORCA and Gaussian)
+* Fluent with Python and Bash scripting 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
