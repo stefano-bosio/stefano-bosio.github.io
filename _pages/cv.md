@@ -32,9 +32,5 @@ Technical Skills
 * Quantum mechanics (GAMESS, ORCA and Gaussian)
 * Fluent with Python and Bash scripting 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
