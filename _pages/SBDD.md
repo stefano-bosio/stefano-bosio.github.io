@@ -18,7 +18,6 @@ Please feel free to download a [PDF version of my poster](link al poster). If yo
 * stefano.bosio2@unibo.it
 * stefano.bosio@iit.it 
 
-
 Before you leave, I invite you to check out my labmates and friends' pages: 
 
 * [Luca Menestrina](https://www.linkedin.com/in/lucamenestrina/?locale=en_US)
@@ -26,8 +25,9 @@ Before you leave, I invite you to check out my labmates and friends' pages:
 * [Riccardo Solazzo](https://www.linkedin.com/in/riccardo-solazzo-8a38081a9/?originalSubdomain=it)
 * [Mattia Bernetti](https://scholar.google.it/citations?user=3DZ7_awAAAAJ&hl=it)
 * [Riccardo Ocello](https://www.researchgate.net/profile/Riccardo-Ocello)
+* [Veronica Bresciani](https://www.unibo.it/sitoweb/veronica.bresciani3/en)
 
-They're doing some really interesting work too!
+Also, please have a look at Riccardo Aguti's poster (poster #XX). They're doing some really interesting work too!
 
 
 
