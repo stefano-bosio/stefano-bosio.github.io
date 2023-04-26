@@ -19,11 +19,11 @@ Work experience
 * Fall 2021 - Fall 2022: Teaching Assistant
   * Alma Mater Studiorum-University of Bologna
   * Laboratory course in Advanced Methodologies in Medicinal Chemistry
-  * Supervisors: Professors Matteo Masetti and Professors Federico Falchi
+  * Supervisor: Dr. Federico Falchi
 
 * Fall 2018 - Fall 2020: Teaching Tutor
   * Alma Mater Studiorum-University of Bologna
-  * Duties included: 
+  * Duties included: Assisting students in preparing for exams in inorganic chemistry, organic chemistry, and analytical chemistry.
   
 Technical Skills
 ======
