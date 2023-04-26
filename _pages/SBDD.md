@@ -28,7 +28,6 @@ Before you leave, I invite you to check out my labmates and friends' pages:
 * [Veronica Bresciani](https://www.unibo.it/sitoweb/veronica.bresciani3/en)
 
 Also, please have a look at Riccardo Aguti's poster (poster #XX). 
-
 They're doing some really interesting work too!
 
 
