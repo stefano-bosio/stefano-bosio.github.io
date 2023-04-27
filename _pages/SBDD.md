@@ -13,7 +13,7 @@ redirect_from:
 
 Welcome to my poster! I'm Stefano, a Ph.D student at the University of Bologna and the Istituto Italiano di Tecnologia. Thank you for taking the time to scan my QR code and visit my poster.
 
-Please feel free to download a [PDF version of my poster](link al poster). If you have any questions or you would like to learn more about my research reach me at:
+Please feel free to download a [PDF version of my poster](https://stefano-bosio.github.io/files/Poster_SBDD_2023.pdf). If you have any questions or you would like to learn more about my research reach me at:
 
 * stefano.bosio2@unibo.it
 * stefano.bosio@iit.it 
