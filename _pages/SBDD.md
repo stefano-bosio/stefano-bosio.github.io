@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# SBDD
+# PAST EVENTS
+
+## SBDD
 
 Welcome to my poster! I'm Stefano, a Ph.D student at the University of Bologna and the Istituto Italiano di Tecnologia. Thank you for taking the time to scan my QR code and visit my poster.
 
