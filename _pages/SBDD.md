@@ -12,7 +12,7 @@ redirect_from:
 # CECAM55
 
 Welcome to my poster! I'm Stefano, a Ph.D student at the University of Bologna and the Istituto Italiano di Tecnologia. Thank you for taking the time to scan my QR code and visit my poster.
-Please feel free to download a [PDF version of my poster](https://stefano-bosio.github.io/files/Poster_SBDD_2023.pdf). 
+Please feel free to download a [PDF version of my poster](https://stefano-bosio.github.io/files/CECAM55_Bosio.pdf). 
 If you have any questions or you would like to learn more about my research reach me at:
 
 * stefano.bosio2@unibo.it
@@ -32,5 +32,5 @@ Thank you again for your interest in my research. Have a great day and enjoy thi
 # Past events
 
 * [SBDD2023](https://stefano-bosio.github.io/files/Poster_SBDD_2023.pdf):"Insights into Riboflavin binding to Protein and RNA Targets"
-* [Recent Advances in Machine Learning Accelerated Molecular Dynamics](C:\Users\stefa\Documents\Test_plu\stefano-bosio.github.io\files\CECAM2022.pdf):"Description of conformational landscape of a G protein-coupled receptor integrating Molecular Dynamics simulations with machine learning techniques"
+* [Recent Advances in Machine Learning Accelerated Molecular Dynamics](https://stefano-bosio.github.io/files/CECAM2022.pdf):"Description of conformational landscape of a G protein-coupled receptor integrating Molecular Dynamics simulations with machine learning techniques"
   
