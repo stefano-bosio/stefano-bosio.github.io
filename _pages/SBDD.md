@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# CECAM55
+# 4th DISVA MaSBiC Symposium 2024
 
 Welcome to my poster! I'm Stefano, a Ph.D student at the University of Bologna and the Istituto Italiano di Tecnologia. Thank you for taking the time to scan my QR code and visit my poster.
 Please feel free to download a [PDF version of my poster](https://stefano-bosio.github.io/files/CECAM55_Bosio.pdf). 
