@@ -8,8 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a Ph.D. student in the "Data Science and Computation" program at the University of Bologna and the Italian Institute of Technology. My research interests are Molecular Dynamics simulations and the integration of machine learning techniques with classical computational tools for drug discovery.
+## Introduction
 
-### A few things about me
-I was born and raised in a small town near Brescia, Italy. I moved to Bologna to pursue a Single-cycle Master's degree in Pharmaceutical Chemistry and Technology. For my master's thesis, I completed a 12-month-long internship in the laboratory of Professors Matteo Masetti, Andrea Cavalli, and Maurizio Recanatini which resulted in a thesis entitled "Integration of simulative approaches and machine learning in the study of receptor complexes of pharmaceutical interest." Currently, I am enrolled in the second year of a four-year Ph.D. program at the same university. Alongside my doctoral studies, I am also working as a teaching assistant for the computational laboratory component of the course "Advanced Methodologies in Medicinal Chemistry," led by Dr. Federico Falchi.
+Hi, I’m Stefano, a Research Fellow at the Istituto Italiano di Tecnologia (IIT) working in computational drug discovery. My background combines pharmaceutical chemistry, molecular modeling, and data science.
 
+My work focuses on the design and analysis of bioactive molecules using molecular dynamics simulations, ensemble-based modeling, and docking and free-energy methods, with particular attention to RNA and other challenging therapeutic targets. I develop computational workflows that integrate physics-based simulations and data-driven approaches to support structure-based and translational drug discovery projects, in close collaboration with chemists and biologists.
+
+---
+
+## About me
+
+I was born and raised in a small town near Brescia, Italy, and later moved to Bologna to pursue my studies in pharmaceutical sciences. I completed a combined Bachelor’s and Master’s degree in Pharmaceutical Chemistry and Technology, followed by a PhD in Data Science and Computation at the University of Bologna.
+
+During my academic training, I developed a strong interest in computational approaches to drug discovery, which has shaped my current research direction. Today, I continue to work at the interface between computation and life sciences, with a focus on applying rigorous computational methods to practical problems in drug design and development.
