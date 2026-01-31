@@ -12,3 +12,4 @@ Hi there! I am a Ph.D. student in the "Data Science and Computation" program at 
 
 ### A few things about me
 I was born and raised in a small town near Brescia, Italy. I moved to Bologna to pursue a Single-cycle Master's degree in Pharmaceutical Chemistry and Technology. For my master's thesis, I completed a 12-month-long internship in the laboratory of Professors Matteo Masetti, Andrea Cavalli, and Maurizio Recanatini which resulted in a thesis entitled "Integration of simulative approaches and machine learning in the study of receptor complexes of pharmaceutical interest." Currently, I am enrolled in the second year of a four-year Ph.D. program at the same university. Alongside my doctoral studies, I am also working as a teaching assistant for the computational laboratory component of the course "Advanced Methodologies in Medicinal Chemistry," led by Dr. Federico Falchi.
+
