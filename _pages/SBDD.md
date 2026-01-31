@@ -42,7 +42,7 @@ Thank you again for your interest in my research.
 Enjoy the event!
 
 # Past events
-* [CECAM55](https://stefano-bosio.github.io/files/CECAM55_Bosio.pdf): "Advancing RNA drug discovery WITH SHAMAN"
+* [CECAM55](https://stefano-bosio.github.io/files/CECAM55_Bosio.pdf): "Advancing RNA drug discovery with SHAMAN"
 * [SBDD2023](https://stefano-bosio.github.io/files/Poster_SBDD_2023.pdf):"Insights into Riboflavin binding to Protein and RNA Targets"
 * [Recent Advances in Machine Learning Accelerated Molecular Dynamics](https://stefano-bosio.github.io/files/CECAM2022.pdf):"Description of conformational landscape of a G protein-coupled receptor integrating Molecular Dynamics simulations with machine learning techniques"
   
